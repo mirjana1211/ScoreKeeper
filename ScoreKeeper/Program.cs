@@ -17,6 +17,7 @@ namespace ScoreKeeper
             scoreKeeper.ScoreTeamB1();
 	    scoreKeeper.ScoreTeamB1();
             scoreKeeper.ScoreTeamA1();
+	    scoreKeeper.ScoreTeamB2();
 
             scoreKeeper.PrintScore();
             Console.ReadLine();
